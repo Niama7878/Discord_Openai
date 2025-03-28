@@ -83,4 +83,4 @@ DISCORD_ACCOUNT_TOKEN=your_discord_account_token
 
 ## 使用教程
 
-[YouTube](https://youtu.be/HL6a6Kb8Hkk) [Bilibili](https://www.bilibili.com/video/BV12JQXYhETh)
+[YouTube](https://youtu.be/JiZUEQmwS1E) [Bilibili](https://www.bilibili.com/video/BV1R3odYwEEr)
