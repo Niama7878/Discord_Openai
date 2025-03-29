@@ -1,6 +1,6 @@
-# 项目名称
+# Discord Openai
 
-> 一个基于 Discord Bot 和 OpenAI API 的多模态实时语音、文本和图像交互系统
+一个基于 Discord Bot 和 OpenAI API 的多模态实时语音、文本和图像交互系统
 
 ## 项目简介
 
